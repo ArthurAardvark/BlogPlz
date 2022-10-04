@@ -1,0 +1,9 @@
+.container {
+  min-height: 100vh;
+}
+.dummy-container {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 900px;
+  max-width: 1440px;
+}

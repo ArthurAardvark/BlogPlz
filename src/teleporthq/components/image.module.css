@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  position: relative;
+}
+.image {
+  width: 100%;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
